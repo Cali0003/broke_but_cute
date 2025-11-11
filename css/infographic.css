@@ -7,8 +7,8 @@
   padding: 20px 0;
 }
 .info-graphic {
-  border-radius: 0;
   margin: 60px auto 80px auto;
+  border-radius: var(--border-radius);
 }
 .info-text h2 {
   line-height: 3rem;
