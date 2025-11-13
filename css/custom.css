@@ -14,13 +14,13 @@
   --color-menu-bg: #acd89f;
   /* Links */
   --color-link-bg: #c49dbe;
-  --color-link-hover: #ffd6ec; /* used */
+  --color-link-hover: #c49dbe; /* used */
   --color-link-active: #80b272; /* used */
   --border-radius-links: 1px;
 
   /* Headlines og rubrik */
-  --font-h1-size: 1rem;
-  --font-sub1-size: 1rem;
+  --font-h1-size: 2.2rem;
+  --font-sub1-size: 1.5rem;
   --font-h2-size: 1rem;
   --font-h3-size: 1rem;
   --color-headline-bg: #ffd6ec;
@@ -55,8 +55,8 @@
   /* Text sizes */
   --logotype-size: 1rem;
   --headline1-size: 2rem;
-  --headline2-size: 1rem;
-  --headline3-size: 1rem;
+  --headline2-size: 1.5rem;
+  --headline3-size: 1.25rem;
   --bodytext-size: 1rem;
   --cta-text-size: 1rem;
   --followup-text-size: 1rem;

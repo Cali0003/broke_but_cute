@@ -1,3 +1,7 @@
+::backdrop {
+  backdrop-filter: blur(5px);
+}
+
 .daily_card {
   background-color: var(--color-card-bg);
   display: grid;
@@ -90,4 +94,46 @@
 .cta_btn:after {
   content: "\2192";
   margin-left: 1rem;
+}
+
+#dialog1 {
+  background-color: #97c2cc;
+}
+
+#dialog2 {
+  background-color: #80b272;
+}
+
+#dialog3 {
+  background-color: #ffd6ec;
+}
+
+#close_btn {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background-color: var(--color-cta-card-bg);
+  color: var(--color-text-inverted);
+  text-decoration: none;
+  width: max-content;
+  border-radius: var(--border-radius);
+}
+
+#close_btn2 {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background-color: var(--color-cta-card-bg);
+  color: var(--color-text-inverted);
+  text-decoration: none;
+  width: max-content;
+  border-radius: var(--border-radius);
+}
+
+#close_btn3 {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background-color: var(--color-cta-card-bg);
+  color: var(--color-text-inverted);
+  text-decoration: none;
+  width: max-content;
+  border-radius: var(--border-radius);
 }

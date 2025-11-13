@@ -39,6 +39,15 @@ h1 {
   text-align: left;
 }
 
+.h1_index {
+  font-size: var(--font-h1-size);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-inverted);
+  margin: 5px 0;
+  line-height: 1.3;
+  text-align: left;
+}
+
 #instruction h1,
 #register h1 {
   margin: 40px 0 20px 0;
@@ -97,7 +106,7 @@ nav a {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 3.6rem;
+  height: 7rem;
 }
 
 #logotype-wrapper > a {
@@ -106,6 +115,11 @@ nav a {
   font-weight: var(--font-weight-medium);
   width: max-content;
   margin-left: 1rem;
+}
+
+.warning-icon {
+  width: auto;
+  height: 8rem;
 }
 
 /* Global menu */
