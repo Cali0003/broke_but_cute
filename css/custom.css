@@ -11,10 +11,10 @@
   --font-logotype-size: 2rem;
 
   /* Global menu */
-  --color-menu-bg: #acd89f;
+  --color-menu-bg: #80b272;
   /* Links */
-  --color-link-bg: #c49dbe;
-  --color-link-hover: #c49dbe; /* used */
+  --color-link-bg: #97c2cc;
+  --color-link-hover: #97c2cc; /* used */
   --color-link-active: #80b272; /* used */
   --border-radius-links: 1px;
 
@@ -38,12 +38,12 @@
 
   /* Cards */
   --color-card-bg: white;
-  --color-cta-card-bg: #b2849d;
+  --color-cta-card-bg: #97c2cc;
   /* news-cards */
   --color-news-bg: white;
   --color-news-bg-inverted: #97c2cc;
-  --color-cta-newscard-bg: #b2849d;
-  --color-cta-newscard-bg-inverted: #b2849d;
+  --color-cta-newscard-bg: #97c2cc;
+  --color-cta-newscard-bg-inverted: #97c2cc;
 
   /* Fonts */
   --font-family-sans: "Rubik", ui-sans-serif;
@@ -67,3 +67,7 @@
   --color-infobox-1-bg: #80b272;
   --color-infobox-2-bg: #97c2cc;
 }
+
+/* Dark mode */
+/* lav til i morgen på farverne
+  --color-brand:light-dark(hex light, hex dark); */

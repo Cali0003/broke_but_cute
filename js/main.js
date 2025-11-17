@@ -135,3 +135,5 @@ function cleanup() {
   document.querySelector("#efficiency").classList.remove("fadeIn");
   document.querySelector("#requirement").classList.remove("fadeIn");
 }
+
+/****dark mode********/

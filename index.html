@@ -37,7 +37,7 @@
   </header>
   <section id="main-disclamer">
     <div id="main-disclamer-content">
-      <img src="img/warning.webp" alt="ICON" class="warning-icon">
+      <img src="img/tom_pung1.webp" alt="ICON" class="warning-icon">
       <div>
         <h1 class="h1_index">Den økonomiske krise har ramt den shoppeafhængige!</h1>
         <p class="sub">Det er sidst på måneden og kontoen er tom!</p>
@@ -47,7 +47,7 @@
   <main>
     <section id="daily">
       <article class="daily_card">
-        <img src="img/teaser.webp" alt="teaser_img">
+        <img src="img/teaser_1.webp" alt="teaser_img">
         <div class="daily_text">
           <h2>Tips og tricks</h2>
           <p>
@@ -60,7 +60,7 @@
             løsninger, du kan
             bruge, hvis du selv — eller en af dine nærmeste — er ramt af tom-konto-syndromet.
           </p>
-          <a href="" class="cta_btn">Se mere</a>
+          <a href="instruction.html" class="cta_btn">Se mere</a>
         </div>
       </article>
       <article class="daily_card">
@@ -81,7 +81,7 @@
             Udfyld formularen og find ud af, om du bare elsker et godt kup eller om du officielt er ramt af
             shoppeafhængighed.
           </p>
-          <a href="" class="cta_btn">Se mere</a>
+          <a href="register.html" class="cta_btn">Se mere</a>
         </div>
       </article>
     </section>
@@ -128,15 +128,14 @@
         <p>Hun siger, det er self-care. Han tvivler.</p>
         <img src="img/teaser_pakker.webp" alt="news_img">
 
-        <dialog id="dialog3">
-          <form method="dialog">
-            <h3>Her står der mere</h3>
-            <p>hej</p>
-            <button id="close_btn3">LUK</button>
-          </form>
-        </dialog>
+        <div popover id="dialog3">
+          <h3>Her står der mere</h3>
+          <p>hej</p>
+          <button popovertarget="dialog3" class="cta_btn">LUK</button>
 
-        <button class="cta_btn" id="cta_open3">Læs mere</button>
+        </div>
+
+        <button popovertarget="dialog3" class="cta_btn">Læs mere</button>
 
       </article>
 

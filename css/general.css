@@ -119,7 +119,7 @@ nav a {
 
 .warning-icon {
   width: auto;
-  height: 8rem;
+  height: 10rem;
 }
 
 /* Global menu */
@@ -138,9 +138,9 @@ header > nav li > a:after {
 }
 
 /* Global menu hover effekt - Lav den om til det, du synes */
-nav a:hover {
+/* nav a:hover {
   background-color: var(--color-link-hover);
-}
+} */
 
 nav a:active {
   background-color: var(--color-link-active);
