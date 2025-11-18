@@ -27,7 +27,7 @@ header {
 main section {
   padding: 20px;
   border-radius: var(--border-radius);
-  background-color: white;
+  background-color: var(--color-card-bg);
 }
 
 h1 {
@@ -71,6 +71,7 @@ h1 {
 
 h2 {
   font-size: var(--headline2-size);
+  color: var(--color-text-inverted);
 }
 
 h3 {

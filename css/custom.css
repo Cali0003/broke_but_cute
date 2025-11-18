@@ -1,21 +1,23 @@
 :root {
+  color-scheme: ligth-dark;
+
   /* Colours */
-  --color-bg: #fff5bc; /* page background /*
+  --color-bg: light-dark(#fff5bc, #2e2d2d); /* page background /*
 
   /* Header */
-  --color-head-bg: #ffd6ec;
+  --color-head-bg: light-dark(#ffd6ec, #9e5f5f);
 
   /* Logotype */
-  --color-logotype-bg: #80b272;
-  --color-text-logotype: black;
+  --color-logotype-bg: light-dark(#80b272, #4d6e4d);
+  --color-text-logotype: light-dark(black, white);
   --font-logotype-size: 2rem;
 
   /* Global menu */
-  --color-menu-bg: #80b272;
+  --color-menu-bg: light-dark(#80b272, #4d6e4d);
   /* Links */
-  --color-link-bg: #97c2cc;
-  --color-link-hover: #97c2cc; /* used */
-  --color-link-active: #80b272; /* used */
+  --color-link-bg: light-dark(#97c2cc, #805d6d);
+  --color-link-hover: light-dark(#97c2cc, #805d6d); /* used */
+  --color-link-active: light-dark(#80b272, #4d6e4d); /* used */
   --border-radius-links: 1px;
 
   /* Headlines og rubrik */
@@ -23,12 +25,12 @@
   --font-sub1-size: 1.5rem;
   --font-h2-size: 1rem;
   --font-h3-size: 1rem;
-  --color-headline-bg: #ffd6ec;
-  --color-headline-text-page: black;
+  --color-headline-bg: light-dark(#ffd6ec, #9e5f5f);
+  --color-headline-text-page: light-dark(black, white);
 
   /* Tekst */
-  --color-text: #000;
-  --color-text-inverted: #000000;
+  --color-text: light-dark(black, white);
+  --color-text-inverted: light-dark(black, white);
 
   /*  Marginer */
   --margin-head-bottom: 5px;
@@ -37,13 +39,13 @@
   --border-radius: 5px;
 
   /* Cards */
-  --color-card-bg: white;
-  --color-cta-card-bg: #97c2cc;
+  --color-card-bg: light-dark(white, grey);
+  --color-cta-card-bg: light-dark(#97c2cc, #805d6d);
   /* news-cards */
-  --color-news-bg: white;
-  --color-news-bg-inverted: #97c2cc;
-  --color-cta-newscard-bg: #97c2cc;
-  --color-cta-newscard-bg-inverted: #97c2cc;
+  --color-news-bg: light-dark(white, grey);
+  --color-news-bg-inverted: light-dark(#80b272, #4d6e4d);
+  --color-cta-newscard-bg: light-dark(#97c2cc, #805d6d);
+  --color-cta-newscard-bg-inverted: light-dark(#97c2cc, #805d6d);
 
   /* Fonts */
   --font-family-sans: "Rubik", ui-sans-serif;
@@ -63,11 +65,11 @@
   --form-submit-size: 1rem;
 
   /* Infographics */
-  --color-info-bg: #ffffff;
-  --color-infobox-1-bg: #80b272;
-  --color-infobox-2-bg: #97c2cc;
+  --color-info-bg: light-dark(white, grey);
+  --color-infobox-1-bg: light-dark(#80b272, #4d6e4d);
+  --color-infobox-2-bg: light-dark(#97c2cc, #805d6d);
 }
 
-/* Dark mode */
-/* lav til i morgen på farverne
-  --color-brand:light-dark(hex light, hex dark); */
+html.dark {
+  color-scheme: dark;
+}
