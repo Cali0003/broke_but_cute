@@ -27,6 +27,7 @@ header {
 main section {
   padding: 20px;
   border-radius: var(--border-radius);
+  background-color: var(--color-card-bg);
 }
 
 h1 {
@@ -35,6 +36,15 @@ h1 {
   color: var(--color-text-inverted);
   margin: 5px 0;
   line-height: 1.3rem;
+  text-align: left;
+}
+
+.h1_index {
+  font-size: var(--font-h1-size);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-inverted);
+  margin: 5px 0;
+  line-height: 1.3;
   text-align: left;
 }
 
@@ -61,18 +71,19 @@ h1 {
 
 h2 {
   font-size: var(--headline2-size);
+  color: var(--color-text-inverted);
 }
 
 h3 {
   font-size: var(--headline3-size);
 }
 
-main>h1 {
+main > h1 {
   width: calc(80% - 6rem);
 }
 
 /* NAVIGATION STRUCTURES */
-header>nav {
+header > nav {
   height: 100%;
   background-color: var(--color-menu-bg);
 }
@@ -96,10 +107,10 @@ nav a {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 3.6rem;
+  height: 7rem;
 }
 
-#logotype-wrapper>a {
+#logotype-wrapper > a {
   color: var(--color-text-logotype);
   font-size: var(--font-logotype-size);
   font-weight: var(--font-weight-medium);
@@ -107,25 +118,31 @@ nav a {
   margin-left: 1rem;
 }
 
+.warning-icon {
+  width: auto;
+  height: 10rem;
+}
+
 /* Global menu */
 header nav li a {
+  margin-top: 1rem;
   margin: 1.5rem;
   background-color: var(--color-link-bg);
   color: var(--color-text);
   font-size: var(--followup-text-size);
   padding: 0.5rem 1rem;
-  border-radius: var(--border-radius-links);
+  border-radius: var(--border-radius);
 }
 
 /* Pilen efter menu-tekst */
-header>nav li>a:after {
+header > nav li > a:after {
   content: " \2192";
 }
 
 /* Global menu hover effekt - Lav den om til det, du synes */
-nav a:hover {
+/* nav a:hover {
   background-color: var(--color-link-hover);
-}
+} */
 
 nav a:active {
   background-color: var(--color-link-active);

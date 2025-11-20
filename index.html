@@ -1,119 +1,240 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="css/reset.css" />
-    <link rel="stylesheet" href="css/custom.css" />
-    <link rel="stylesheet" href="css/fonts.css" />
-    <link rel="stylesheet" href="css/general.css" />
-    <link rel="stylesheet" href="css/layout.css" />
-    <link rel="stylesheet" href="css/burger.css" />
-    <link rel="stylesheet" href="css/cards.css" />
-    <link rel="icon" type="image/png" href="img/fav.png" />
-    <title>Emergency Site</title>
-  </head>
-  <body id="frontpage">
-    <header>
-      <nav>
-        <div id="logotype-wrapper" class="logo">
-          <a href="index.html"> LOGO-TYPE </a>
-        </div>
-        <ul class="menu">
-          <li><a class="menuItem" href="instruction.html">Nærkontakt </a></li>
-          <li><a class="menuItem" href="register.html">Indberet</a></li>
-        </ul>
-        <button class="burger">
-          <span class="line"></span>
-          <span class="line"></span>
-          <span class="line"></span>
-        </button>
-      </nav>
-    </header>
-    <section id="main-disclamer">
-      <div id="main-disclamer-content">
-        <img src="warning" alt="ICON" />
-        <div>
-          <h1>OVERSKRIFT</h1>
-          <p class="sub">Underrubrik</p>
-        </div>
-      </div>
-    </section>
-    <main>
-      <section id="daily">
-        <article class="daily_card">
-          <img src="" alt="teaser_img" />
-          <div class="daily_text">
-            <h2>Teaser</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat
-              magnam ducimus ea, sed minima asperiores.
-            </p>
-            <a href="" class="cta_btn">Se mere</a>
-          </div>
-        </article>
-        <article class="daily_card">
-          <img src="" alt="teaser_img" />
-          <div class="daily_text">
-            <h2>Teaser</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat
-              magnam ducimus ea, sed minima asperiores.
-            </p>
-            <a href="" class="cta_btn">Se mere</a>
-          </div>
-        </article>
-      </section>
-      <section id="breaking">
-        <article class="news_card">
-          <h3>Nyhed</h3>
-          <p>Lorem ipsum dolor sit, sed minima asperiores.</p>
-          <img src="" alt="news_img" />
-          <a class="cta_btn" href="">Læs mere</a>
-        </article>
-        <article class="news_card">
-          <h3>Nyhed</h3>
-          <p>Lorem ipsum dolor sit, sed minima asperiores.</p>
-          <img src="" alt="news_img" />
-          <a class="cta_btn" href="">Læs mere</a>
-        </article>
-        <article class="news_card">
-          <h3>Nyhed</h3>
-          <p>Lorem ipsum dolor sit, sed minima asperiores.</p>
-          <img src="" alt="news_img" />
-          <a class="cta_btn" href="">Læs mere</a>
-        </article>
-      </section>
-    </main>
 
-    <footer>
-      <nav class="some">
-        <ul>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-        </ul>
-      </nav>
-      <nav class="another">
-        <ul>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-        </ul>
-      </nav>
-      <nav class="yetanother">
-        <ul>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-        </ul>
-      </nav>
-    </footer>
-    <script src="js/burger.js"></script>
-    <!-- <script src="js/main.js"></script> -->
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/general.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/burger.css">
+  <link rel="stylesheet" href="css/cards.css">
+  <link rel="stylesheet" href="css/infographic.css">
+  <link rel="stylesheet" href="css/forms.css">
+  <link rel="icon" type="image/png" href="img/fav.png">
+  <title>Broke But Cute</title>
+</head>
+
+<body id="frontpage">
+  <header>
+    <nav>
+      <div id="logotype-wrapper" class="logo"> <a href="index.html"> <img src="img/nyt_logo.svg" alt="Logo">
+        </a>
+
+      </div>
+
+
+      <ul class="menu">
+        <li><a class="menuItem" href="instruction.html">Tips og tricks </a></li>
+        <li><a class="menuItem" href="register.html">Udfyld formular</a></li>
+        <li><button id="theme-btn">Dark</button></li>
+      </ul>
+
+      <button class="burger">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </button>
+    </nav>
+  </header>
+  <section id="main-disclamer">
+    <div id="main-disclamer-content">
+      <img src="img/tom_pung1.webp" alt="ICON" class="warning-icon">
+      <div>
+        <h1 class="h1_index">Den økonomiske krise har ramt den shoppeafhængige!</h1>
+        <p class="sub">Det er sidst på måneden og kontoen er tom!</p>
+      </div>
+    </div>
+  </section>
+  <main>
+    <section id="daily">
+      <article class="daily_card">
+        <img src="img/teaser_1.webp" alt="teaser_img">
+        <div class="daily_text">
+          <h2>Tips og tricks</h2>
+          <p>
+            Vores eksperter arbejder fortsat på højtryk for at finde årsagen til den månedlige økonomiske krise, der
+            rammer
+            shoppeafhængige sidst på måneden — men de har endnu ikke nogle konkrete bud.
+            <br>
+            <br>
+            Dog har vi, i samarbejde med førende eksperter inden for impulsstyring og budgettering, udarbejdet tre
+            løsninger, du kan
+            bruge, hvis du selv — eller en af dine nærmeste — er ramt af tom-konto-syndromet.
+          </p>
+          <a href="instruction.html" class="cta_btn">Se mere</a>
+        </div>
+      </article>
+      <article class="daily_card">
+        <img src="img/teaser_survey.webp" alt="teaser_img" />
+        <div class="daily_text">
+          <h2>Er du shoppeafhængig?</h2>
+          <p>
+            Danmark er ramt af en shoppefeber, og nu skal vi stå sammen for at finde ud af, hvor slemt det egentlig
+            står til!
+            <br>
+            <br>
+            Kan du ikke gå forbi et “-50%”-skilt uden at få hjertebanken? Får du eufori af pakkepost, og dårlig
+            samvittighed
+            bagefter?
+            <br>
+            <br>
+            Så er det måske tid til at tage vores store shoppe-test!
+            Udfyld formularen og find ud af, om du bare elsker et godt kup eller om du officielt er ramt af
+            shoppeafhængighed.
+          </p>
+          <a href="register.html" class="cta_btn">Se mere</a>
+        </div>
+      </article>
+    </section>
+
+    <section id="breaking">
+
+      <article class="news_card">
+        <h3>Julie troede, Klarna var en ven — ikke et lån</h3>
+        <p>Julie har altid elsket bekvemmelighed. Så da Klarna tilbød hende at dele betalingen op i fire, tænkte
+          hun perfekt!
+        </p>
+        <img src="img/teaser_klarna.webp" alt="news_img">
+
+        <dialog id="dialog1">
+          <form method="dialog">
+            <h3>Julie troede, Klarna var en ven — ikke et lån</h3>
+            <p>Julie har altid elsket bekvemmelighed. Så da Klarna tilbød hende at dele betalingen op i fire, tænkte
+              hun: Perfekt, fire
+              gange så meget shopping! Hun var lykkelig… indtil hun modtog fire regninger. Samtidig.Nu siger hun, at hun
+              “arbejder på
+              sig selv” — hvilket betyder, hun har fjernet alle shopping-apps (undtagen de tre, hun glemte at nævne).Men
+              hey, hun har
+              stadig sine outfits. Og et fast forhold til kundeservice.Moral: Nogle forhold starter med et klik — og
+              ender med en
+              rykker.</p>
+            <img src="img/teaser_klarna.webp" alt="news_img">
+            <p>Julie har lært en vigtig lektie: Bekvemmelighed kan være fristende, men den kommer med renter. Hun
+              overvejer
+              nu
+              meditation og mindfulness — men kun mellem notifikationer fra Klarna.
+              <br>
+              Hun drømmer om en verden, hvor man kan swipe til lykke uden at få en regning med i købet. Indtil da øver
+              hun
+              sig i det
+              nye mantra: “Én pakke ad gangen.”
+              <br>
+              Og selvom hendes bankkonto stadig græder lidt, siger Julie, at hun føler sig mere voksen. Mindre fordi hun
+              har styr på
+              økonomien, mere fordi hun nu kan stave til “rykkergebyr” uden hjælp fra autocorrect.
+              <br>
+              Moral 2.0: Nogle kærligheder brænder hurtigt — især de med “betaling senere”-mærkatet.
+            </p>
+
+            <button id="close_btn">LUK</button>
+          </form>
+        </dialog>
+
+        <button class="cta_btn" id="cta_open1">Læs mere</button>
+      </article>
+
+      <article class="news_card">
+        <h3>Hun sælger tøj på Vinted for at få råd til at købe nyt tøj</h3>
+        <p>Hun kalder det “cirkulær økonomi”. Andre kalder det selvbedrag.</p>
+        <img src="img/teaser_saelge.webp" alt="news_img">
+
+        <dialog id="dialog2">
+          <form method="dialog">
+            <h3>Hun sælger tøj på Vinted for at få råd til at købe nyt tøj</h3>
+            <p>Hun kalder det “cirkulær økonomi”.Andre kalder det selvbedrag.Men ærligt — hun tænker bæredygtigt, når
+              hun pakker sin
+              femte forsendelse, mens Zalando-kurven står klar i en anden fane.Hun siger, det hele handler om
+              balance.Hendes konto
+              siger noget andet.</p>
+            <img src="img/teaser_saelge.webp" alt="news_img">
+            <p>Hun prøver at forklare det som en investering i glæde og mode. Banken kalder det “en økonomisk katastrofe
+              med tryk på
+              katastrofe.”
+              <br>
+              Hun siger, hun lærer af sine fejl. Sandheden er, at hun allerede har klikket på “køb nu” igen. Men hey —
+              hvert outfit
+              har sin egen historie, og hver rykker et lille kapitel i hendes livsregnskab.
+              <br>
+              Moral: Bæredygtighed er godt for planeten. For kontoen… ikke så meget.
+            </p>
+            <button id="close_btn2">LUK</button>
+          </form>
+        </dialog>
+
+        <button class="cta_btn" id="cta_open2">Læs mere</button>
+
+      </article>
+
+      <article class="news_card">
+        <h3>Kvinde opdaget i at gemme Zalando-pakker for sin kæreste</h3>
+        <p>Hun siger, det er self-care. Han tvivler.</p>
+        <img src="img/teaser_pakker.webp" alt="news_img">
+
+        <div popover id="dialog3">
+          <h3>Kvinde opdaget i at gemme Zalando-pakker for sin kæreste</h3>
+          <p>Ifølge vidner i opgangen blev kvinden set liste en stor papkasse ind bag sin frakke “som om det var en
+            baby”.Hun siger,
+            det ikke var nyt tøj, men “noget, hun havde bestilt for længe siden, som bare først kom nu.”Kæresten
+            troede på
+            hende.Indtil han fandt fire identiske pakker under sengen.Hun siger, det er self-care.Han siger, det er
+            selvbedrag.Internettet siger: ikonisk.
+          </p>
+          <img src="img/teaser_pakker.webp" alt="news_img">
+          <p>Kvinden forsvarer sig med, at alle pakkerne var planlagt, og at timing bare er uheldig. Kæresten ryster på
+            hovedet, men
+            kan ikke helt lade være med at grine over hendes forklaringer. Pakkerne bliver pakket ud, og langsomt fyldes
+            stuen med
+            tøj, som hun nøje prøver, vurderer og lægger til side. Internettet følger med, folk diskuterer det på fora
+            og sociale
+            medier, og pludselig føles hendes impulsive indkøb som en offentlig performance, hvor både hendes venner og
+            fremmede
+            kommenterer hver beslutning.</p>
+          <button popovertarget="dialog3" class="cta_btn">LUK</button>
+
+        </div>
+
+        <button popovertarget="dialog3" class="cta_btn">Læs mere</button>
+
+      </article>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <nav class="some">
+      <ul>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+      </ul>
+    </nav>
+    <nav class="another">
+      <ul>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+      </ul>
+    </nav>
+    <nav class="yetanother">
+      <ul>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+      </ul>
+    </nav>
+  </footer>
+  <script src="js/burger.js"></script>
+  <script src="js/dialog.js"></script>
+  <script src="js/dark.js"></script>
+  <!-- <script src="js/main.js"></script> -->
+</body>
+
 </html>

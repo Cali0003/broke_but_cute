@@ -1,3 +1,7 @@
+::backdrop {
+  backdrop-filter: blur(5px);
+}
+
 .daily_card {
   background-color: var(--color-card-bg);
   display: grid;
@@ -24,7 +28,7 @@
 }
 .daily_text .cta_btn {
   justify-self: left;
-  width: 80%;
+  width: 25%;
 }
 .daily_img {
   width: 100%;
@@ -79,6 +83,7 @@
   text-decoration: none;
   width: max-content;
   border-radius: var(--border-radius);
+  border: none;
 }
 .news_card .cta_btn {
   background-color: var(--color-cta-newscard-bg);
@@ -87,7 +92,113 @@
   background-color: var(--color-cta-newscard-bg-inverted);
   color: var(--color-text);
 }
-.cta_btn:after {
+/* .cta_btn:after {
   content: "\2192";
   margin-left: 1rem;
+} */
+
+#dialog1 {
+  background-color: #97c2cc;
+  width: 600px;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+#dialog2 {
+  background-color: #80b272;
+  width: 600px;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+#dialog3 {
+  background-color: #ffd6ec;
+  width: 600px;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+#close_btn {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background-color: var(--color-news-bg-inverted);
+  color: var(--color-text-inverted);
+  text-decoration: none;
+  width: max-content;
+  border-radius: var(--border-radius);
+  border: none;
+}
+
+#close_btn2 {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background-color: var(--color-cta-card-bg);
+  color: var(--color-text-inverted);
+  text-decoration: none;
+  width: max-content;
+  border-radius: var(--border-radius);
+  border: none;
+}
+
+#close_btn3 {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background-color: var(--color-cta-card-bg);
+  color: var(--color-text-inverted);
+  text-decoration: none;
+  width: max-content;
+  border-radius: var(--border-radius);
+  border: none;
+}
+
+[popover] {
+  padding: 1rem;
+  max-height: 90vh;
+  max-width: 50ch;
+  width: 90vw;
+
+  button {
+    position: sticky;
+    top: 0;
+    justify-self: end;
+  }
+
+  &:popover-open {
+    display: grid;
+  }
+
+  &::backdrop {
+    background: #0008;
+  }
+}
+/******** transition**********/
+/* [popover] {
+  opacity: 0;
+  rotate: 180deg;
+  transition: 0.5s allow-discrete;
+}
+
+:popover-open {
+  opacity: 1;
+  rotate: none;
+
+  @starting-style {
+    opacity: 0;
+    rotate: -180deg;
+  }
+} */
+
+[popover] {
+  opacity: 0;
+  transform: scale(0.95) rotateX(-10deg);
+  transition: 300ms;
+}
+
+:popover-open {
+  opacity: 1;
+  transform: scale(1) rotateX(0);
+
+  @starting-style {
+    opacity: 0;
+  }
 }

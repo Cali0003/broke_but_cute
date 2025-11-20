@@ -1,81 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="css/reset.css" />
-    <link rel="stylesheet" href="css/custom.css" />
-    <link rel="stylesheet" href="css/fonts.css" />
-    <link rel="stylesheet" href="css/general.css" />
-    <link rel="stylesheet" href="css/layout.css" />
-    <link rel="stylesheet" href="css/burger.css" />
-    <link rel="stylesheet" href="css/cards.css" />
-    <link rel="stylesheet" href="css/form.css" />
-    <link rel="icon" type="image/png" href="img/fav.png" />
-    <title>Emergency Site</title>
-  </head>
-  <body id="register">
-    <header>
-      <nav>
-        <div id="logotype-wrapper" class="logo">
-          <a href="index.html"> LOGO-TYPE </a>
-        </div>
-        <ul class="menu">
-          <li><a class="menuItem" href="instruction.html">Nærkontakt </a></li>
-          <li><a class="menuItem" href="register.html">Indberet</a></li>
-        </ul>
-        <button class="burger">
-          <span class="line"></span>
-          <span class="line"></span>
-          <span class="line"></span>
-        </button>
-      </nav>
-    </header>
 
-    <main>
-      <h1>INDBERET</h1>
-      <section id="form-section">
-        <article id="form-info">
-          <h2>Overskrift</h2>
-          <p>Tekst</p>
-        </article>
-        <form id="webform"></form>
-      </section>
-      <section id="form-summary">
-        <h2>Summary</h2>
-        <article>
-          <p class="placeholder">Opsummering</p>
-        </article>
-      </section>
-    </main>
-    <footer>
-      <nav class="some">
-        <ul>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-        </ul>
-      </nav>
-      <nav class="another">
-        <ul>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-        </ul>
-      </nav>
-      <nav class="yetanother">
-        <ul>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-          <li><a href="">link</a></li>
-        </ul>
-      </nav>
-    </footer>
-    <script src="js/burger.js"></script>
-    <!-- <script src="js/main.js"></script> -->
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/general.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/burger.css">
+  <link rel="stylesheet" href="css/cards.css">
+  <link rel="stylesheet" href="css/forms.css">
+  <link rel="icon" type="image/png" href="img/fav.png">
+  <title>Broke But Cute</title>
+</head>
+
+<body id="register">
+  <header>
+    <nav>
+      <div id="logotype-wrapper" class="logo"> <a href="index.html"> <img src="img/nyt_logo.svg" alt="Logo"> </a>
+
+      </div>
+      <ul class="menu">
+        <li><a class="menuItem" href="instruction.html">Tips og tricks </a></li>
+        <li><a class="menuItem" href="register.html">Udfyld formular</a></li>
+        <li><button id="theme-btn">Dark</button></li>
+      </ul>
+      <button class="burger">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </button>
+    </nav>
+  </header>
+
+  <main>
+    <h1>INDBERET</h1>
+    <section id="form-section">
+      <article id="form-info">
+        <h2>Er du afhængig af at shoppe?</h2>
+        <p>Find ud af det her, med få klik!</p>
+      </article>
+
+
+      <!DOCTYPE html>
+
+      <html lang="da">
+
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Indberet</title>
+
+      </head>
+
+      <body>
+        <main>
+          <h1>INDBERET</h1>
+
+          <section id="form-section">
+            <article id="form-info">
+              <h2>Er du afhængig af at shoppe?</h2>
+              <p>Find ud af det her, med få klik!</p>
+            </article>
+
+            <form id="webform">
+              <fieldset>
+                <legend>Dine oplysninger</legend>
+
+                <label for="navn">Fornavn</label>
+                <input type="text" id="navn" name="navn" placeholder="Fornavn" required>
+
+                <label for="efternavn">Efternavn</label>
+                <input type="text" id="efternavn" name="efternavn" placeholder="Efternavn" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" placeholder="Din emailadresse" required>
+              </fieldset>
+
+              <fieldset>
+                <legend>Shoppingvaner</legend>
+
+                <div class="form-group">
+                  <label>Har du shoppet i denne måned?</label><br>
+                  <input type="radio" id="ja" name="shop" value="ja" required>
+                  <label for="ja">Ja</label>
+
+                  <input type="radio" id="nej" name="shop" value="nej">
+                  <label for="nej">Nej</label>
+                </div>
+
+                <div class="form-group">
+                  <label for="shop-date">Hvornår shoppede du sidst?</label>
+                  <input id="shop-date" name="shop_date" type="date">
+                </div>
+
+                <fieldset>
+                  <legend>Hvad shoppede du sidst?</legend>
+
+                  <label for="shoppetrang">Hvor og hvad?</label>
+                  <textarea id="shoppetrang" name="shoppetrang" rows="6" placeholder="Skriv din forklaring her..."
+                    required></textarea>
+                </fieldset>
+              </fieldset>
+
+              <button type="submit">Send</button>
+            </form>
+
+
+          </section>
+
+
+    </section>
+
+    <section id="form-summary">
+      <h2>Summary</h2>
+      <article>
+        <p class="placeholder">Opsummering</p>
+      </article>
+    </section>
+  </main>
+  <footer>
+    <nav class="some">
+      <ul>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+      </ul>
+    </nav>
+    <nav class="another">
+      <ul>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+      </ul>
+    </nav>
+    <nav class="yetanother">
+      <ul>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+        <li><a href="">link</a></li>
+      </ul>
+    </nav>
+  </footer>
+  <script src="js/burger.js"></script>
+  <script src="js/dark.js"></script>
+  <script src="js/forms.js"></script>
+  <!-- <script src="js/main.js"></script> -->
+</body>
+
 </html>

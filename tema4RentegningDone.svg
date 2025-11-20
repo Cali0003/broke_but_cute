@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 597.04 815.51">
+  <g id="rentegning">
+    <path id="Hår" d="M194.49,324s-26.43-261.73,91.25-231.26c0,0,126.95-59.05,101.38,222.98-65.29-17.66-131.2-17.43-192.63,8.28Z" style="fill: #fff2b8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="hoved" d="M230.29,170.99s-11.73,80.3,61.16,96.33c0,0,68.83-16.31,52.47-101.03,0,0-46.14-12.65-58.19-40.94,0,0-20.46,39.05-55.45,45.64Z" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="hals" d="M314.02,299.04c-6.38-.23-13.72,3.46-21.17,3.25-7.77-.22-15.36-5.46-19.63-6.65l5.48-32.08,12.74,3.74,14.33-5.76,8.25,37.49Z" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="naese" points="294.24 209.22 282.07 209.22 285.23 174.85 288.15 174.85 294.24 209.22" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="kind" d="M270.82,205.52c0,5.57-7.81,16.43-14.89,16.07-11.9-.61-13.25-4.57-12.84-10.08.42-5.55,5.75-10.08,12.84-10.08s14.89-1.48,14.89,4.09Z" style="fill: #ec008c; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="kind-2" data-name="kind" d="M331.76,213.05c-6.08,8-5.22,11.89-14.12,11.3-7.78-.51-13.48-3.4-13.55-8.54-.12-8.43,5.64-15.18,13.55-12.06,14.6,5.76,16.32,6.41,14.12,9.31Z" style="fill: #ec008c; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="mund" d="M265.12,233.24s3.95,2.42,8.11,2.13l26.68.29s4.27-.07,5.66-2.42" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="mund-2" data-name="mund" d="M273.23,235.37s6.73-12.61,14.05-7.04c0,0,7.35-3.61,12.63,7.33l-26.68-.29Z" style="fill: #ff94df; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="mund-3" data-name="mund" d="M273.56,235.66s17.18,19.19,26.68.29" style="fill: #ff94df; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="oeje" d="M244.45,196.03s13.43-18.26,33.11-8.51" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="oeje-2" data-name="oeje" d="M299.23,188.18s14.85-6.53,32.16,5.2" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="oeje-3" data-name="oeje" d="M267.91,187.51c0,3-2.67,5.43-5.95,5.43s-5.95-1.1-5.95-4.1,4.67-4.09,7.96-4.09,3.94-.23,3.94,2.76Z" style="fill: #009444; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="oeje-4" data-name="oeje" d="M319.68,190.54c0,2.28-1.85,4.13-4.13,4.13s-4.13-1.85-4.13-4.13.24-3.81,2.52-3.81,5.74,1.53,5.74,3.81Z" style="fill: #009444; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="oejenbryn" points="244.45 174.85 280.4 167.12 280.4 174.85 244.45 174.85 244.45 174.85" style="fill: #8b5e3c; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="oejenbryn-2" data-name="oejenbryn" points="331.39 175.4 297.64 175.4 297.72 166.57 331.47 174.43 331.39 175.4" style="fill: #8b5e3c; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="oerering" cx="226" cy="214.45" rx="5.65" ry="7.96" style="fill: none; stroke: #c6a500; stroke-miterlimit: 10;"/>
+    <path id="spaende" d="M350.9,139.48c1.88-3.66-8.19,3.63-12.97,6.9-4.78,3.27-8.67,5.04-5.03,6.97,4.25,2.25,8.22,1.33,10.91-2.3,2.61-3.53,5.51-8.49,7.09-11.56Z" style="fill: #00aeef; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="spaende-2" data-name="spaende" d="M342.81,146.71c.55.79-1.29,4.01-2.66,4.96-1.37.95-2.93,1.07-3.48.28-.55-.79.12-2.2,1.5-3.15s4.09-2.88,4.64-2.09Z" style="fill: #fff2b8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="spaende-3" data-name="spaende" d="M359.88,142.08c1.46-2.83-4.99-.27-9.19,4.76-4.55,5.45-9.71,9.04-5.86,10.37,2.53.88,7.99,2.45,9.9-3.43,1.61-4.95,4.33-10.11,5.15-11.69Z" style="fill: #00aeef; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="spaende-4" data-name="spaende" d="M354.92,147.35c.49.59-1.41,2.8-1.8,4.64-.41,1.95-2.64,3.77-4.43,2.23-.58-.5,1.2-3.16,2.64-4.37,1.44-1.2,3.09-3.09,3.59-2.5Z" style="fill: #fff2b8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="spaende-5" data-name="spaende" d="M232.55,161.5c4.55,3.48.3,7-2.27,7.63-2.92.71-6.78-5.62-8.16-8.38-4.98-9.96-3.07-11.29,4.84-4.18.65.58,2.03,2.2,5.6,4.93Z" style="fill: #00aeef; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="spaende-6" data-name="spaende" d="M244.32,156.28c-3.19,8.53-6.45,9.25-9.5,2.17-2.57-5.96-9.41-9.99-8.67-12.5.79-2.7,5.53.54,10.27,4.07,4.15,3.1,8.89,3.62,7.91,6.26Z" style="fill: #00aeef; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="spaende-7" data-name="spaende" d="M230.77,163.27c0,1.66.85,3.01-.68,3.01s-4-1.35-4-3.01-2.76-5.07-1.24-5.07,5.91,3.41,5.91,5.07Z" style="fill: #fff2b8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="spaende-8" data-name="spaende" d="M241.6,157.19c0,2.03-1.5,1.01-3.52,1.01s-4.56-4.73-4.56-6.76,2.67,2.33,4.7,2.33,3.38,1.4,3.38,3.42Z" style="fill: #fff2b8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path d="M271.09,313.55s-43.71-2.11-53.78,26.73c0,0-40.95,86.01-7.83,119.39l23.56,19.26s1.65-7.15,3.3-15.19c.75-3.67,1.46-7.54,2.27-10.63.54-2.04,1.52-3.52,1.17-5.2-.44-2.08-3.89-2.08-5.4-3.66-24.54-25.8,4.87-59.54,15.6-65.02,5.68,23.14-1.4,40.73-11.95,75.78l-8,40.1s106.44,10.69,102.57,7.3c0,0-21.7-73.84,4.19-115.32,0,0,12.9,97.03,44.47,88.4,0,0,18.88-5.68,28.55-39l-27.44-6.08-4.17,13.15s-1.87,8.39-5.15-4.6c-3.28-12.98-9.59-103.92-9.59-103.92,0,0,4-25.99-45.53-23.44,0,0-29.14,8.33-46.85,1.93Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="skjorteFlap" d="M274.77,321.87v-.14c-3.38-9.17-8.85-18.69-1.69-26.08l18.88,6.65c-2.69,4.26-5.57,8.24-8.75,11.79-2.59,2.9-5.39,5.52-8.44,7.78Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="skjorteFlap-2" data-name="skjorteFlap" d="M315.31,324.75h0c-10.85-4.8-19.06-11.71-22.45-22.45l21.17-3.25c3.57,2.87,2.6,13.98,1.28,25.7Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path d="M282.66,315.37l16.92-.22s-6.5-8.13-7.13-11.87l-9.79,12.09Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="skjorteKnapper" points="278.7 491.95 288.61 495.72 297.28 315.37 288.12 315.37 278.7 491.95" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap" cx="291.54" cy="347.06" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-2" data-name="knap" cx="290.27" cy="374.89" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-3" data-name="knap" cx="288.51" cy="404.65" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-4" data-name="knap" cx="287.02" cy="431.82" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-5" data-name="knap" cx="284.73" cy="465.71" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-6" data-name="knap" cx="291.96" cy="310.2" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-7" data-name="knap" cx="276.78" cy="314.77" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-8" data-name="knap" cx="311.58" cy="318.12" r="2.28" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="to" d="M64.03,386.22l5.88,8.38s7.52-10.31,13.37-7.05c0,0,7.35,2.94-6.76,14.69l-16.9,12.2v6.61l30.41.88-1.18-8.82-12.49-.29,15.87-19.54s11.27-13.55-4.11-17.34c0,0-16.46-2.2-24.1,10.29Z" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="ni" d="M113.99,375.79c-13.72-2-18,26.57-10.87,32.03.83.64,11.46,6.61,14.99-6.91l-2.5,21.01h8.82s1.62-24.73,1.62-33.21-7.18-12.13-12.05-12.93Z" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="ni-2" data-name="ni" cx="110.94" cy="392.92" rx="8.91" ry="3.69" transform="translate(-297.34 395.01) rotate(-74.53)" style="fill: #fff; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="kalender" points="142.14 337.15 72.05 336.96 59.48 341.75 134.84 342.71 142.14 337.15" style="fill: #ff89c9; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="kalender-2" data-name="kalender" d="M135.27,443.56c2.96,4.84-88.96,2.04-94.5,3.68-6.71,1.98,16.97-62.01,16.09-87.6h77.97s-2.53,79.09.43,83.92Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="kalender-3" data-name="kalender" points="134.26 359.4 56.87 358.7 57.34 342.71 134.84 342.71 134.26 359.4" style="fill: #ff89c9; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="kalender-4" data-name="kalender" points="144.18 350.69 134.75 359.3 134.47 342.48 143.17 337.48 144.18 350.69" style="fill: #ff89c9; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="kalender-5" data-name="kalender" d="M135.61,443.57l8.6-8.14v-83.55l-9.47,7.42c-.33,32.62.12,83.16.87,84.27Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="kalender-6" data-name="kalender" d="M122.96,339.04s.96-12.64-8.52-7.45c0,0-14.1,8.52,1.86,23.33l1.69-3.05s-8.6-12.12-1.06-17.09c0,0,3.73-2.13,3.1,6.21l2.93-1.95Z" style="fill: #f9ed32; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="kalender-7" data-name="kalender" d="M89.74,340.16l3.79-.5s-1.59-12.39-12.64-7.48c0,0-16.3,6.57-4.97,24.08l4.73-2.29s-6.58-12.37.07-16.06c0,0,5.9-3.12,9.02,2.24Z" style="fill: #f9ed32; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="flueKrop" cx="409.64" cy="339.1" rx="6.98" ry="4.27" transform="translate(-90.75 159.09) rotate(-19.83)" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="flueVinge" cx="407.2" cy="329.22" rx="2.44" ry="5.22" style="fill: #e6e7e8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="flueVinge-2" data-name="flueVinge" cx="414.31" cy="330.12" rx="4.81" ry="3.25" transform="translate(-98.13 464.41) rotate(-53.23)" style="fill: #e6e7e8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="flueStreg" d="M401.58,382.28s5.72-6.88,7.42-15.95c.92-4.93-1.27-10.57-1.79-15.95" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="flueCirkel" d="M406.42,364.53c.48.69,2.33,3.44,1.89,4.16-.49.8-4.57.16-4.89-2.54-.16-1.32-.47-2.48.36-2.92s1.62-.17,2.64,1.31Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="oere" d="M231,202.94c.99,5.44,3.99,10.01.82,10.01s-5.73-4.48-5.73-10.01-.81-10.52,2.34-10.91c2.42-.3,1.49,4.95,2.58,10.91Z" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="oere-2" data-name="oere" d="M351.14,202.9c0,6.48-2.94,6.45-4.2,6.45s-.38.02-.38-6.45,1.64-7.99,2.9-7.99,1.68,1.51,1.68,7.99Z" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="oerering-2" data-name="oerering" cx="351.02" cy="212.95" rx="5.65" ry="7.96" style="fill: none; stroke: #c6a500; stroke-miterlimit: 10;"/>
+    <path id="lomme" d="M230.23,529.23s31.53-10.57,33.04-26.6c-.01,3.33-25.77-3.44-27.77-4.74-1.16-.75-5.53-1.72-5.53-1.72,0,0,.14,6.77-3.06,4.59,0,0-4.48-6.31-6.22-4.71,0,0-5.27,2.73-8.08-.33,0,0-3.7,1.34,1.81,5.38,0,0,.48.63-.3,3.38,0,0-.5,1.84,2.33,3.72,0,0,13.02,5.42,13.79,21.03Z" style="fill: #f3fff9; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bukser" d="M230.19,530.2s-43.56,200.21-29.7,211.42c.14,2.52,7.58-1.29,11.03-3.42,2.61-1.61,4.68-1.54,9.52.47,11.33,4.69,23.96,8.46,28.5,15.54,8.84,13.76,21.03-125.43,37.09-205.9,0,0-20.81,203.81-8.31,206.45-.96,1.3,12.18-8.23,35.4-10.98,12.98-2.27,17.75,4.7,21.64,6.41,0,0,27.89-177.83,9.76-201.07s-64.27-47.75-82.24-46.89c0,0,.77,15.08-32.7,27.98Z" style="fill: #97c2cc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toerklaede" d="M350.34,562.74l-.9-6.06s2.9-7.95-5.39-14.81c0,0,.86-10.53-5.43-11.27,0,0,5.72-10.75-1.14-15.04,0,0,5.11-6.24-4.88-13.27l-43.98-6.58s-15.92-8.98-57.53,0c0,0,23.17,9.98,32.19,6.91,0,0,9.28,8.65,15.44,4.93,0,0,10.74,16.3,14.74,10.86,0,0,5.72,17.21,11.72,12.18,0,0,2.57,13.55,12.87,11.55,0,0,6,11.44,11.72,7.43,0,0,5.72,8.01,8.86,6s.86,9.15,11.72,7.15Z" style="fill: #002117; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="armbaand" d="M228.25,474.27s11.28-22.05,9.05-27.93l-2.28-.74s-7.18,21.97-12.39,23.85l5.62,4.83Z" style="fill: #f9ed32; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="armbaand-2" data-name="armbaand" d="M233.38,444.16s-2.75-4.63-4.6-7.45c0,0-2.94,18.65-18.3,23.12l7.03,5.46s14.47-10.49,15.86-21.13Z" style="fill: #f9ed32; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="sko" d="M245.14,750.75s-1.56,13.34-10.34,11.17c0,0-58.01.41-56.74-6.05,0,0-.38-1.59-.25-3.57.21-3.31,1.82-7.72,8.9-7.72-.3-.15,22.03-.85,27.36-7.33-2.55-1.53,19.18,2.05,31.07,13.5Z" style="fill: #fff5bc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="sko-2" data-name="sko" d="M212.71,755.16s-35.2-.88-34.9-2.85c0,0,.25-8.35,8.9-7.72,0,0,33.95,7.92,26,10.57Z" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="sko-3" data-name="sko" d="M243.18,756.95s-4.55-1.89-31.72-1.79" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="sko-4" data-name="sko" points="219.67 755.16 215.28 755.16 209.79 746.34 213.95 746.02 219.67 755.16" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="sko-5" data-name="sko" points="225.7 755.16 221.62 754.81 217.14 745.06 220.26 744.18 225.7 755.16" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="sko-6" data-name="sko" points="234.17 755.16 228.49 755.16 223.22 743.06 225.7 741.94 234.17 755.16" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="sko-7" data-name="sko" cx="206.62" cy="744.62" rx=".84" ry="2.07" transform="translate(-479.93 389.94) rotate(-47.17)" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="sko-8" data-name="sko" cx="212.14" cy="743.21" rx=".97" ry="2.37" transform="translate(-477.13 393.54) rotate(-47.17)" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="sko-9" data-name="sko" cx="216.49" cy="740.73" rx="1.15" ry="2.67" transform="translate(-473.92 395.93) rotate(-47.17)" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="ramme" points="526.89 233.08 423.1 235.06 411.45 224.41 537.04 224.41 526.89 233.08" style="fill: #abb284; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="ramme-2" data-name="ramme" points="421.52 300.46 409.81 312.62 410.68 224.94 423.1 235.06 421.52 300.46" style="fill: #abb284; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="ramme-3" data-name="ramme" points="533.88 309.99 410.43 313.36 421.28 301.21 522.23 300.41 533.88 309.99" style="fill: #abb284; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="ramme-4" data-name="ramme" points="534.73 309.45 522.78 300.41 526.89 233.08 537.92 224.9 534.73 309.45" style="fill: #abb284; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="ramme-5" data-name="ramme" d="M458.71,224.41s.37-14.87,13.45-22.28c0,0,9.72,6.64,11.06,22.28" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="ramme-6" data-name="ramme" cx="472.23" cy="197.45" r="4.37" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-9" data-name="knap" cx="391.02" cy="439.14" r="1.98" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="skjorte" d="M395.79,432.89l-2.79,14.77s8.76,1.74,12.67,0l4.14-11.15-27.25-5.94-4.57,14.04s9.7,3.49,15.02,3.06" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="knap-10" data-name="knap" cx="397.78" cy="440.24" r="1.98" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="pung" d="M380.12,420.64s-11.76-9.06,1.91-19.52l2.14-1.43,5.21-3.48s3.34-2.53,17.54.92c0,0,3.1,5.57,8.65,6.55.38.07.9-.17,1.18.13,4.77,5.24,7.34,19.01,1.88,18.97l-5-.86-33.51-1.29Z" style="fill: #80b272; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="pung-2" data-name="pung" d="M388.35,391.42s-2.3.42-4.44,8.21c0,0,6.14-4.68,7.5-4.07,0,0,15.72-.04,15.52,1.58,0,0,1.9,5.66,9.51,6.31,0,0-5.89-6.63-4.12-9.43,0,0-8.08-1.29-9.11-1.19l-14.85-1.4Z" style="fill: #f9ed32; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="pung-3" data-name="pung" cx="396.89" cy="388.83" rx="2.69" ry="2.59" style="fill: #f9ed32; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="pung-4" data-name="pung" cx="402.4" cy="390.07" rx="2.69" ry="2.37" style="fill: #f9ed32; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="haand" d="M388.23,431.31s-9.29-20.03-4.01-22.82c0,0,4.68-3.29,6.27,11.95,0,0,1.24-15.55,3.69-16.83,0,0,4.18-2.99.9,16.33,0,0,3.2-13.32,4.78-14.25,0,0,3.69-2.18-1.39,14.35,0,0,3.21-10.46,6.08-10.76,0,0,3.78-.3-2.39,11.26,0,0,.96-.86,2.34-2,1.81-1.51,4.35.68,3.11,2.69-1.67,2.71-3.75,6.3-6.34,11.06l-.75,1.88-12.27-2.87Z" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="sko-10" data-name="sko" d="M278.7,755.16l1.59,7.62.84,4.01s71.42,3.57,72.89,0,3.15-4.04-3.36-10.74c0,0-11.13-3.6-14.91-5.46l-6.39-4.15-7.1-2.57s-23.08-1.81-43.54,11.29Z" style="fill: #fff5bc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="sko-11" data-name="sko" points="299.65 761.27 296.41 761.27 292.81 752.76 296.88 751.55 299.65 761.27" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="sko-12" data-name="sko" points="307.31 761.85 303.22 761.27 299.65 750.31 303.92 748.77 307.31 761.85" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="sko-13" data-name="sko" points="314.05 761.48 310.35 761.27 306.9 747.84 310.35 747.02 314.05 761.48" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="sko-14" data-name="sko" d="M280.3,762.78s72.21-3.16,74.56,2.16c0,0,1.64-1.56-2.27-6.12s-27.81-2.41-27.81-2.41c-8.32-.59-7.89,5.44-7.89,5.44" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="sko-15" data-name="sko" cx="325.54" cy="749.35" rx="2.79" ry="1.38" transform="translate(-461.29 529.35) rotate(-50.9)" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="sko-16" data-name="sko" cx="330.39" cy="751.45" rx="2.57" ry="1.27" transform="translate(-461.13 533.9) rotate(-50.9)" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="sko-17" data-name="sko" cx="334.59" cy="753.19" rx="1.81" ry=".9" transform="translate(-460.93 537.8) rotate(-50.9)" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="oejenvippe" x1="241.6" y1="188.84" x2="244.52" y2="195.55" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="oejenvippe-2" data-name="oejenvippe" x1="246.07" y1="184.74" x2="248.56" y2="191.47" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="oejenvippe-3" data-name="oejenvippe" x1="251.48" y1="180.88" x2="253.49" y2="188.11" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="oejenvippe-4" data-name="oejenvippe" x1="334.75" y1="187.49" x2="331.11" y2="192.92" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="oejenvippe-5" data-name="oejenvippe" x1="330.58" y1="184.58" x2="327.67" y2="191.11" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="oejenvippe-6" data-name="oejenvippe" x1="325.35" y1="183.65" x2="324.19" y2="189.23" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff" points="522.78 299.04 421.52 300.46 423.1 235.06 526.89 233.08 522.78 299.04" style="fill: #ff89c9; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-2" data-name="bff" d="M492.21,286.46l-.04,13.5h-19.41s0-18.67,0-18.67v-11.91s1.16-12.8,3.96-12.62c0,0,.97-6.78,7.44-6.01,0,0,2.71-3.58,4.06-.97,0,0,5.07-3.96,7.32-.58,0,0,4.57-3.77,9.01.77,0,0,6.07,0,5.4,4.54,0,0,8.23.87,6,4.25,0,0,6.48,3.95,3.77,8.4,0,0,5.52.57,3.05,4.64,0,0,1.5,6.87,0,8.03,0,0,1.01,7.54-.54,9.28v11.29h-22.42l-1.72-13.47s-5.04.98-5.9-.48Z" style="fill: #603913; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-3" data-name="bff" d="M495.4,286.92s-16.69-5.21-13.97-19.75c0,0,10.1-2.85,7.49-7.73,0,0,2.61-2.95,3.86-2.38,0,0,7.49-1.02,6.7.68,0,0,2.84,6.93,6.93,4.66,0,0,4.43,5,2.72,8.4,0,0,3.29,4.66-3.29,10.56,0,0-6.93,6.02-10.45,5.56Z" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-4" data-name="bff" points="507.94 267.17 496.49 266.35 496.49 264.17 507.94 266.23 507.94 267.17" style="fill: #603913; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-5" data-name="bff" points="485.4 265.67 492.45 265.67 492.45 263.53 487.33 264.33 485.4 265.67" style="fill: #603913; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-6" data-name="bff" d="M483.65,269.74s6.67-4.63,7.5,1.06" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-7" data-name="bff" d="M498.65,270.79s4.2-5.59,7.35.41" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="bff-8" data-name="bff" cx="488.23" cy="269.77" rx="1.6" ry="1.02" style="fill: #27aae1; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <ellipse id="bff-9" data-name="bff" cx="502.54" cy="270.32" rx="1.51" ry="1.24" style="fill: #27aae1; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-10" data-name="bff" points="495.54 275.65 492.88 275.65 494.16 267.96 494.88 268.15 495.54 275.65" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-11" data-name="bff" d="M496.47,280.6c0,1.2-1.28,2.18-2.85,2.18s-3.64-1.96-3.64-3.17,2.06-1.19,3.64-1.19,2.85.98,2.85,2.18Z" style="fill: #d40022; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-12" data-name="bff" d="M487.91,278.04s5.55,4.3,10.96,2.11" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-13" data-name="bff" d="M444.38,288.74v11.67c-.17.41-20.32.46-21.28-.48-1.19-1.16,3.13-39.09,4.76-40.96s8.03-14.33,18.96-11.25c0,0,23.47-4.75,23.26,15.8l2.08,36.4-20.83.48-1.14-11.67h-5.8Z" style="fill: #fff2b8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-14" data-name="bff" d="M431.32,270.79s4.46,16.92,17.2,17.95c1.16.53,16.26-4.31,13.78-20.32,0,0-15.96-5.59-14.92-10.77,0,0-4.56,11.04-16.06,13.14Z" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-15" data-name="bff" points="457.98 267.34 450.16 267.34 450.16 264.6 456.67 266.08 457.98 267.34" style="fill: #8b5e3c; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-16" data-name="bff" points="440.53 267.04 446.01 267.04 446.01 264.3 441.91 265.3 440.53 267.04" style="fill: #8b5e3c; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-17" data-name="bff" points="450.16 278.45 446.55 278.45 447.62 270.09 448.95 270.09 450.16 278.45" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-18" data-name="bff" d="M436.18,273.22s1.94-5.95,8.83-3.84" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-19" data-name="bff" d="M451.49,270.09s5.68-2.8,8.02,2.06" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="bff-20" data-name="bff" cx="441.1" cy="271.07" r="1.53" style="fill: #009444; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <circle id="bff-21" data-name="bff" cx="455.51" cy="271.32" r="1.78" style="fill: #009444; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-22" data-name="bff" d="M451.89,283.03c0,1.57-1.58,2.83-3.54,2.83s-3.54-1.27-3.54-2.83,3.24-1.61,5.19-1.61,1.88.05,1.88,1.61Z" style="fill: #ff94df; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="bff-23" data-name="bff" d="M442.95,281.42s8.83,4.04,10.78,1.09" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-24" data-name="bff" points="451.32 300.41 444.38 300.41 444.38 288.27 447.64 289.18 450.18 288.74 451.32 300.41" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="bff-25" data-name="bff" points="498.87 299.96 492.17 299.96 492.17 286.94 497.5 287.45 498.87 299.96" style="fill: #ffdbac; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="b" d="M459.94,237.57l.87,5.01.81,4.67s8.5,2.1,6.2-4.24c0,0-1.43-3.41-6.59.65,0,0,8.33-5.18,2.54-7.06,0,0-4.3-1.7-3.83.98Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polyline id="f" points="471.25 247.02 469.99 236.82 476.78 236.06" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="f-2" data-name="f" x1="470.78" y1="242.17" x2="475.65" y2="241.7" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polyline id="f-3" data-name="f" points="480.59 247.02 479.91 241.3 479.34 236.52 485.62 235.52" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <line id="f-4" data-name="f" x1="480.03" y1="241.27" x2="483.95" y2="240.79" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke" d="M396.76,750.59s-55.57,1.22-41.56-8.65c0,0,36.05-17.67,27.32-37.41,0,0-2.75-10.1,14.23-19.28,0,0,7.8,9.18,10.1,8.26,0,0-18.82,9.18-11.02,21.12,0,0-17.65,9.18-15.94,12.85,0,0-.5,12.58,11.04,6.58,0,0,9.42,2.85,8.57,7.88-.75,4.47-2.75,8.65-2.75,8.65Z" style="fill: #80b272; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-2" data-name="toejbunke" d="M423.83,750.85s-37.11,10.38-27.83-1.08l2.93-8.53s1.95-5.5-11.23-6.48c0,0,9.77-4.6,10.74-6.41l20.02,12.9s.98,9.47,5.37,9.6Z" style="fill: #dfffd6; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-3" data-name="toejbunke" d="M435.47,765.85s-11.48,2.35-15.61-2.27c0,0-18.53-10.64-6.51-24.11l17.53-3.02s14.69,9.91,13.77,13.91c0,0-14.23,6.52-11.48,5.26,0,0,17.91,12.49,2.3,10.22Z" style="fill: #b2849d; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-4" data-name="toejbunke" d="M417.87,741.94s8.72-11.24,5.05-13.08c0,0-3.58-3.44-8.16-7.14-7.13-5.75-16.69-12.13-18.92-7.1,0,0-40.21,24.03-12.48,21.19,0,0,9.73-.53,15.69-6.96l18.82,13.08Z" style="fill: #fff2b8; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-5" data-name="toejbunke" d="M423.21,668.7s.37,55.99-8.45,53.03l8.16,7.14s.92,8.25-5.05,13.08c0,0,13.77,9.21,24.33,13.22,0,0,12.13,9.66,33.25,3.81l18.05-30.11c4.55.58-1.01,29.68-56.35,9.74,0,0-2.48-39.15-13.94-69.91Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="toejbunke-6" data-name="toejbunke" points="524.85 650.82 521.17 658.62 546.42 666.43 546.42 655.87 524.85 650.82" style="fill: #1c75bc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-7" data-name="toejbunke" d="M518.88,636.59l-6.89,10.1,12.85,4.13,5.05-10.1s-8.09-8.43-11.02-4.13Z" style="fill: #1c75bc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-8" data-name="toejbunke" d="M546.42,655.87s-20.66-11.02-16.53-15.15" style="fill: none; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-9" data-name="toejbunke" d="M475.82,712.81h12.92s7.17,35.32-15.32,33.21c0,0-3.11.81-9.08.81-7.03,0-7.85-8.81,1.39-12.63,10.88-4.49,5.88-.97,10.08-21.39Z" style="fill: #726658; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-10" data-name="toejbunke" d="M406.85,717.22c0,1.99-2.22,2.8-6.55,2.8s-9.6-2.68-7.84-3.61c3.38-1.78,2.09-4.3,7.84-3.61,4.29.52,6.55,2.42,6.55,4.41Z" style="fill: #ed1c24; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-11" data-name="toejbunke" d="M457.59,741.39c0,3.16,6.31,5.44,8.01,5.44s0-2.28,0-5.44-1.29-5.73-2.99-5.73-5.02,2.56-5.02,5.73Z" style="fill: #39b54a; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-12" data-name="toejbunke" d="M488.84,733.12c0-3.44-1.71-1.81-3.64-.29-2.17,1.7-3,1.21-5.26,4.45-1.97,2.82-1.66,6.93.8,6.93s8.11-7.65,8.11-11.09Z" style="fill: #8dc63f; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-13" data-name="toejbunke" d="M433.03,659.3s5.74-1.17,1.87,16.31c0,0-10.69,3.33-4.01,22.16,0,0,2.27,21.77-10.29,4.14l-3.61-14.43s-7.35-11.62,4.01-15.9l12.02-12.29Z" style="fill: #97c2cc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-14" data-name="toejbunke" d="M431.05,701.38c0,1.72.26,6.51-2.39,6.51s-5.73-2.24-5.73-3.95,1.31-1.35,3.96-1.35,4.17-2.92,4.17-1.2Z" style="fill: #fff5bc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-15" data-name="toejbunke" d="M420.74,677.73c0-4.18,1.89-6.14.27-6.14s-6.25,4.1-6.25,8.28.89,6.01,2.51,6.01,3.47-3.96,3.47-8.15Z" style="fill: #fff5bc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-16" data-name="toejbunke" d="M475.45,758.97s-4.58,6.9,0,7.91,26.28-9.52,29.56-7.91c0,0,37.6,1.14,34.83-2.92,0,0-6.31-19.67-32.05-38.11l-10.09,5.28s-4.49,4.07-7.8-5.28c0,0,4.45,14.19-14.44,41.03Z" style="fill: #80b272; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-17" data-name="toejbunke" d="M539.61,753.48s-28.64-36.37-33.43-33.87l8.93-9.26s49.13,38.24,24.5,43.12Z" style="fill: #97c2cc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-18" data-name="toejbunke" d="M493.51,640.72s-34.27,3.39-38.91,0v-2.99l-4.35-2.36-8.01,9.38-3.12,6.66s-10.61-5.65-14.58-.59c0,0-28.81,1.63,2.44,14.47l6.04-5.99s7.2-1.45,1.87,16.31c0,0-10.81,5.84-4.01,22.16l6.26,40.84,26.11,7.69s-12.27-6.2-.66-10.64,9.9-4.65,9.9-4.65l3.31-18.2h12.92s1.16,5.13,1.16,5.13" style="fill: #aecc97; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-19" data-name="toejbunke" d="M463.78,672.64c0,4.18,7.22,12.45-5.55,12.45s-26.25,9.83-26.25,5.65,3.5-12.7,16.27-12.7,15.53-9.58,15.53-5.4Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-20" data-name="toejbunke" d="M546.86,669.57s32.1,31.25,25.25,38.31c0,0,13.98,12.86,4.57,16.81,0,0,5.42,20.24-4,6.39l-.29,4.85,14.55,8.29s7.99,6.98,0,10.11-40.52-2.67-40.52-2.67l.43-5.71s-4.17-13.46-6.87-13.24,9.99-8.02,9.99-8.02l-.8-4.09s-7.88-51.03-2.32-51.03Z" style="fill: #dfffd6; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-21" data-name="toejbunke" d="M396.76,685.25s-7.4-32.81,14.44-29.38c0,0,13.16,9.66,15.8,9.42,3.19-.29-12.66,11.36-12.33,11.37,0,0-.85,2.92,5.94,25.25l3.22,13.18s-1.15,11.15-9.07,6.64c0,0-16.13-12.52-19.21-8.92,0,0-7.29-9.82,11.31-19.29,0,0-7.79-4.57-10.1-8.26Z" style="fill: #b2849d; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-22" data-name="toejbunke" d="M578.03,716.16c-.3,13.16-21.94,23.52-30.33,16.18-6.56-5.74,1.51-8.65,1.51-15.06s-5.15-25.35,3.57-25.35,25.4,17.82,25.25,24.23Z" style="fill: #fff5bc; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <polygon id="toejbunke-23" data-name="toejbunke" points="442.25 710.36 442.25 715.19 461.98 716.36 466.36 710.36 442.25 710.36" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-24" data-name="toejbunke" d="M468.4,706.16c0-7.75-6.43-8.89-14.02-14.02-6.42-4.34-14.02,6.28-14.02,14.02s11.99,4.2,19.74,4.2,8.31,3.55,8.31-4.2Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-25" data-name="toejbunke" d="M483.74,692.24l6.16,26.17s-3.31,19.25,17.89,0c9.11-8.27,14.48.38,20.04,4.53,7.38,5.52,10.94,11.95,10.94,11.95,0,0,12.18,18.61,11.21-9.74l-4.88-43.01-43.25,23.94-1.26,1.01-7.28-5.49,27.86-24.9-37.43,15.53Z" style="fill: #b2849d; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-26" data-name="toejbunke" d="M450.26,635.36l6.68,10.82,36.57-5.47-39.2,15.15s18.19,17.92,20.95,28.17c0,0,.72,9.74,14.64,6.62l34.62-16.43s-28.13,16.04-32.03,26.36c0,0,1.11,9.35,8.1,5.42,0,0,43.07-16.82,46.1-28.68,0,0,2.56-10.03-.27-10.91l-25.25-7.8h0s3.67-7.8,3.67-7.8l-7.86-2.53,1.89-11.71s-1.23-.31-3.37-.81c-13.57-3.17-63.58-13.89-65.25-.41" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="toejbunke-27" data-name="toejbunke" d="M530.5,641.4l-4.67,9.34,19.3,3.87s-12.15-10.33-14.63-13.21Z" style="fill: #ffd6ec; stroke: #231f20; stroke-miterlimit: 10;"/>
+    <path id="kalender-8" data-name="kalender" d="M70.43,427.31c-.74.35-.32,3.25,0,3.45s7.45-.46,7.79,0,.06,4.93,0,5.87.75,5.21-7.79,0c-2.21-1.35-2.32,1.43-1.66,3.19.36.95,10.44,7.93,12,0s.38-12.35,0-12.51-9.6-.35-10.34,0Z" style="fill: #231f20;"/>
+    <path id="kalender-9" data-name="kalender" d="M83.41,427.67c-.38.51,0,4.45,0,11.23s10.57,4.64,10.62,0,.77-10.68,0-11.23-2.13-.63-2.69,0,.13,4.62-.12,8.42-4.71,5.58-4.76,0,1.15-8.29.24-8.42-2.92-.51-3.3,0Z" style="fill: #231f20;"/>
+    <path id="kalender-10" data-name="kalender" d="M112.92,427.31c-.73.33-.63,14.59,0,14.95s3.29.24,4.04,0,.91-14.16,0-14.95-3.31-.33-4.04,0Z" style="fill: #231f20;"/>
+    <path id="kalender-11" data-name="kalender" d="M96.98,427.98c-.36.74-1.16,14.27,0,14.93s2.52.18,3.59,0-1.22-5.76,0-6.08,2.69,6.08,4.15,6.08,3.65.42,4.76,0,1.24-13.82,0-14.93-4-.48-4.76,0,1.18,7.72.14,8.02-2.84-6.91-3.87-8.02-3.65-.74-4.01,0Z" style="fill: #231f20;"/>
+  </g>
+  <g id="hotspot">
+    <circle id="hotspotToejbunke" cx="516.89" cy="592.26" r="33.09" style="fill: #da0000;"/>
+    <circle id="hotspotBFF" cx="530.5" cy="185.59" r="33.09" style="fill: #da0000;"/>
+    <circle id="hotspotKalender" cx="44.35" cy="303.28" r="33.09" style="fill: #da0000;"/>
+  </g>
+</svg>

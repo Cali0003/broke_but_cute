@@ -7,8 +7,8 @@
   padding: 20px 0;
 }
 .info-graphic {
-  border-radius: 0;
   margin: 60px auto 80px auto;
+  border-radius: var(--border-radius);
 }
 .info-text h2 {
   line-height: 3rem;
@@ -39,4 +39,34 @@
 }
 .info-box:nth-of-type(2n) {
   background-color: var(--color-infobox-2-bg);
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.fadeIn {
+  animation: fadeIn 1.5s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.rotate {
+  animation: rotate 1.5s;
+}
+
+@keyframes rotate {
+  0% {
+    rotate: 0deg;
+  }
+  100% {
+    rotate: 360deg;
+  }
 }
