@@ -99,20 +99,29 @@
 
 #dialog1 {
   background-color: #97c2cc;
+  width: 600px;
+  padding: 50px;
+  border-radius: 10px;
 }
 
 #dialog2 {
   background-color: #80b272;
+  width: 600px;
+  padding: 50px;
+  border-radius: 10px;
 }
 
 #dialog3 {
   background-color: #ffd6ec;
+  width: 600px;
+  padding: 50px;
+  border-radius: 10px;
 }
 
 #close_btn {
   display: inline-block;
   padding: 0.4rem 1rem;
-  background-color: var(--color-cta-card-bg);
+  background-color: var(--color-news-bg-inverted);
   color: var(--color-text-inverted);
   text-decoration: none;
   width: max-content;

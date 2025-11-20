@@ -4,8 +4,8 @@
 
 #form-section,
 #form-summary {
-  background-color: var(--info-background-color);
-  padding: 0;
+  background-color: var(--color-news-bg);
+  padding: 20px;
 }
 #form-summary h2 {
   line-height: 3rem;
@@ -31,6 +31,53 @@
   padding: 0;
 }
 
-.form-group {
-  background-color: #ffd6ec;
+/*****/
+
+form {
+  margin-bottom: 20px;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 6px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+input[type="range"] {
+  width: 100%;
+  padding: 6px;
+  margin-top: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  margin: 1.5rem;
+  background-color: var(--color-link-bg);
+  color: var(--color-text);
+  font-size: var(--followup-text-size);
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+}
+
+button:hover {
+  background: #555;
+}
+
+.radio-container {
+  display: flex;
+  gap: 20px; /* afstand mellem knapperne */
+}
+
+.radio-item {
+  display: flex;
+  flex-direction: column; /* tekst over knap */
+  align-items: center; /* centrerer tekst over knap */
 }

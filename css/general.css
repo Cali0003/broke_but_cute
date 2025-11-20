@@ -125,12 +125,13 @@ nav a {
 
 /* Global menu */
 header nav li a {
+  margin-top: 1rem;
   margin: 1.5rem;
   background-color: var(--color-link-bg);
   color: var(--color-text);
   font-size: var(--followup-text-size);
   padding: 0.5rem 1rem;
-  border-radius: var(--border-radius-links);
+  border-radius: var(--border-radius);
 }
 
 /* Pilen efter menu-tekst */
